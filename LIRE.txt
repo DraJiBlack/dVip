@@ -1,0 +1,16 @@
+--_____   _____        ___       _   _   _____   _           ___   _____   _   _   
+--|  _  \ |  _  \      /   |     | | | | |  _  \ | |         /   | /  ___| | | / /  
+--| | | | | |_| |     / /| |     | | | | | |_| | | |        / /| | | |     | |/ /   
+--| | | | |  _  /    / / | |  _  | | | | |  _  { | |       / / | | | |     | |\ \   
+--| |_| | | | \ \   / /  | | | |_| | | | | |_| | | |___   / /  | | | |___  | | \ \  
+--|_____/ |_|  \_\ /_/   |_| \_____/ |_| |_____/ |_____| /_/   |_| \_____| |_|  \_\ 
+
+
+
+Information : 
+
+ensure dVip dans votre server.cfg ou resources.cfg.
+Mettre le vip.sql dans votre base de donnée.
+
+Pour vous attribué le vip veillez mettre 1 au lieux de 0 dans votre viplevel qui ce situe dans la table users de votre base de donnée.
+Une fois que le VIP vous est attribué veuillez vous déconnecter et vous reconnecter puis faite la commande /vip.
